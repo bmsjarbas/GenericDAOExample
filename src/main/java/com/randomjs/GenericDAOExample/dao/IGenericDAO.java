@@ -1,4 +1,4 @@
-package com.randomjs.dao.interfaces;
+package com.randomjs.GenericDAOExample.dao;
 
 public interface IGenericDAO {
 	public <T> T create(T entity);
