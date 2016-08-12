@@ -13,6 +13,7 @@ import com.randomjs.domain.entity.Dog;
  * Hello world!
  *
  */
+
 public class App 
 {
 	@Autowired
